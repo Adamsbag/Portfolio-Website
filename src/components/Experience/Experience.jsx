@@ -5,8 +5,8 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>What are My Skills</h5>
-      <h2>My Experience</h2>
+      <h5>What are the Tools and Technologies I work with?</h5>
+      <h2>My SKILLS</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>My Skills</h3>
@@ -14,7 +14,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                 <h4>AWS</h4>
+                 <h4>Terraform</h4>
                  <small className='text-light'>Experienced</small>
               </div>
              
@@ -23,7 +23,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                 <h4>Linux</h4>
+                 <h4>Docker</h4>
                  <small className='text-light'>Experienced</small>
               </div>
              
@@ -32,7 +32,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
+                <h4>Kubernetes</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
               
@@ -41,7 +41,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Networking</h4>
+                <h4>Linux</h4>
                 <small className='text-light'>Experienced</small>
               </div>
               
@@ -50,15 +50,15 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>React</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>AWS</h4>
+                <small className='text-light'>Experienced</small>
               </div>
               
             </article>
           </div>
         </div>
 
-{/*============== END OF FRONTEND ================*/}
+{/*============== END OF My Skills ================*/}
 
         <div className="experience__backend">
         <h3>AWS Services</h3>
@@ -83,7 +83,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>EC2</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
 

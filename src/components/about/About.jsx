@@ -24,13 +24,13 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years as Cloud Engineer</small>
+              <small>3+ Years as Cloud DevOps Engineer</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>3 Companies WorldWide</small>
+              <small>2 Companies WorldWide</small>
             </article>
 
             <article className='about__card'>
@@ -41,10 +41,12 @@ const About = () => {
           </div>
 
           <p>
-          I am a goal oriented cybersecurity and cloud computing professional who graduated with a 4.00 GPA.
+          I am a goal oriented cloud computing professional who graduated with a 4.00 GPA.
           For over 20 year, I have been building, troubleshooting , updating, minimizing cost, and securing 
-          resilient systems to sustain workloads of different kind. I work as a cloud engineer at Madina 
-          Conception. As I was restarting my career in cybersecurity 3 years ago, I started simultaneously 
+          resilient systems to sustain workloads of different kind. I work as a DevOps at Madina 
+          Conception. I am in charge of provisionning cloud resources and redesigning legacy applications
+          using containerized technologies. Moreover, I participate in data migration process.
+          As I was restarting my career in cybersecurity 3 years ago, I started simultaneously 
           learning cloud computing. Today, I have mastered several AWS services such as IAM, EC2, load balancer
           Route53, S3, ECS/ECR, CI/CD and more… As of now I own an AWS Solution Architect Associate and I am 
           working toward an AWS Devops Associate. In December 2020, I obtained my Associate of Art in Cyber 
