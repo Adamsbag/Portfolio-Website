@@ -42,7 +42,7 @@ const About = () => {
 
           <p>
           I am a goal oriented cloud computing professional who graduated with a 4.00 GPA.
-          For over 20 year, I have been building, troubleshooting , updating, minimizing cost, and securing 
+          For over 20 years, I have been building, troubleshooting , updating, minimizing cost, and securing 
           resilient systems to sustain workloads of different kind. I work as a DevOps at Madina 
           Conception. I am in charge of provisionning cloud resources and redesigning legacy applications
           using containerized technologies. Moreover, I participate in data migration process.
